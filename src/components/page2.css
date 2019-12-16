@@ -1,0 +1,9 @@
+.playlist-table img{
+    width: 50px;
+}
+.playlist-table tr{
+    cursor: pointer;
+}
+.table-responsive {
+    height: 500px; 
+  }

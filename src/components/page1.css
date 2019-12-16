@@ -1,0 +1,22 @@
+.playlist.wrapper{
+    text-align: center;
+}
+.playlist-container{
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    cursor: pointer;
+}
+.playlist-container a {
+    color: black !important;
+    text-decoration: none !important;
+}
+.playlist-item{ 
+    width: 200px;
+    height: 350px;
+    margin: 5px;
+    opacity: .7;
+}
+.playlist-item:hover{ 
+    opacity: 1;
+}
